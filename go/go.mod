@@ -1,4 +1,4 @@
-module github.com/reizzao/RzLibs_GO
+module github.com/reizzao/libs
 
 go 1.20
 

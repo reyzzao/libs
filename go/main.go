@@ -1,8 +1,8 @@
 package main
 
-// "github.com/reizzao/RzLibs_GO/console"
-// "github.com/reizzao/RzLibs_GO/feedback"
-// "github.com/reizzao/RzLibs_GO/message"
+// "github.com/reizzao/libs/console"
+// "github.com/reizzao/libs/feedback"
+// "github.com/reizzao/libs/message"
 
 func main() {
 
