@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "../", // using ../ para ir a principal do diretorio
+      "name": "WORK PRINCIPAL"
+    },
+    {
+      "path": "/home/rzj",
+      "name": "HOME"
+    }
+  ],
+  "settings": {}
+}
