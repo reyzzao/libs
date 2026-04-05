@@ -3,7 +3,7 @@ package valid_text_min
 import (
 	"errors"
 
-	"github.com/reizzao/libs/feedback"
+	"github.com/reyzzao/libs/feedback"
 )
 
 func MinText(text string, length int) (string, error) {

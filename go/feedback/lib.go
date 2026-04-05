@@ -3,7 +3,7 @@ package feedback
 import (
 	"fmt"
 
-	"github.com/reizzao/libs/message"
+	"github.com/reyzzao/libs/message"
 )
 
 func MinText(length int) string {

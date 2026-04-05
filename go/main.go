@@ -1,8 +1,8 @@
 package main
 
-// "github.com/reizzao/libs/console"
-// "github.com/reizzao/libs/feedback"
-// "github.com/reizzao/libs/message"
+// "github.com/reyzzao/libs/console"
+// "github.com/reyzzao/libs/feedback"
+// "github.com/reyzzao/libs/message"
 
 func main() {
 

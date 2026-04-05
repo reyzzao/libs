@@ -3,7 +3,7 @@ package valid_text_min
 import (
 	"testing"
 
-	"github.com/reizzao/libs/feedback"
+	"github.com/reyzzao/libs/feedback"
 )
 
 func Test_MinText(t *testing.T) {
