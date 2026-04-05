@@ -1,4 +1,4 @@
-module github.com/reyzzao/libs
+module github.com/reyzzao/libs/go
 
 go 1.20
 
